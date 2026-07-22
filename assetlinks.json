@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.newtonsai.chat",
+      "sha256_cert_fingerprints": [
+        "10:C0:6D:6A:65:1C:8F:6C:E4:F5:E1:54:3D:10:41:10:83:62:9B:51:EB:BC:B2:75:9E:78:55:AC:4D:5A:89:C2"
+      ]
+    }
+  }
+]
